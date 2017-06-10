@@ -1,0 +1,51 @@
+/* CSS */
+
+
+/* Images in Top section */
+.dev-image{
+	max-width: 45%;
+	display: inline-block;
+}
+
+.la-image{
+	max-width: 45%;
+	display: inline-block;
+}
+
+/* Horizontal Lines with h2 elements */
+h2 {
+   width: 100%; 
+   text-align: center; 
+   border-bottom: 1px solid #000; 
+   line-height: 0.1em;
+   margin: 10px 0 20px; 
+} 
+
+h2 span { 
+    background:#fff; 
+    padding:0 10px; 
+}
+
+/* About Me Section */
+
+.about-me-container{
+  margin-top: 12%;
+  margin-bottom: 12%;
+}
+
+
+/* About Me Section */
+
+.skillset-image-container{
+ min-width: 100px;
+ min-height: 100px;
+}
+.top-row{
+  margin-top: 12%;
+}
+
+.row-two{
+  margin-bottom: 12%;
+}
+
+/*  */
