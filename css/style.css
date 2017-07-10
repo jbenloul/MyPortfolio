@@ -1,5 +1,4 @@
-/* CSS */
-
+ /*CSS */
 
 /* Images in Top section */
 .dev-image{
@@ -48,4 +47,16 @@ h2 span {
   margin-bottom: 12%;
 }
 
-/*  */
+/*Carousel Section*/
+.carousel-caption{
+
+  padding: 3px 3px 10px 3px;
+  border-radius: 5px;
+  background-color: rgba(54, 25, 25, .5);
+}
+
+.carousel-indicators {
+    bottom: 30px !important;
+    }
+
+/*  
